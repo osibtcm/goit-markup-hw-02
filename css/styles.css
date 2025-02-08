@@ -15,6 +15,69 @@ color: #434455;
         .address-head {
             font-style: normal
         }
+  
+        
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    }
+.text-logo {
+    color: #2e2f42;
+    }
+        
+.link-header {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    }
+        
+.link-header:focus,
+.link-header:hover {
+     color: #404BBF;
+    }
+.order {
+     background-color: #2e2f42;
+    }
+    
+.order-head {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+    }
+    
+.button-order {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    background-color: #4d5ae5;
+    cursor: pointer;
+    }
+    
+.button-order:focus,
+.button-order:hover {
+    background-color: #404BBF;
+}
+.portfolio-main-head {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize;
+ }
  .portfolio-head {
     font-weight: 500;
     font-size: 20px;
