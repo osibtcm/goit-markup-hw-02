@@ -15,8 +15,6 @@ color: #434455;
         .address-head {
             font-style: normal
         }
-  
-        
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -26,7 +24,7 @@ color: #434455;
     text-transform: uppercase;
     color: #4d5ae5;
     }
-.text-logo {
+.logo-text {
     color: #2e2f42;
     }
         
