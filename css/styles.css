@@ -3,18 +3,17 @@ sans-serif;
 background-color: #fff;
 color: #434455;
 }
-    ul li a 
-        {
-            list-style-type: none;
-        }
+ ul li a {
+    list-style-type: none;
+}
     
-        a {
-            text-decoration: none;
-        }
+ a {
+    text-decoration: none;
+}
     
-        .address-head {
-            font-style: normal
-        }
+.address-head {
+    font-style: normal
+}
   
 .logo {
     font-family: "Raleway", sans-serif;
