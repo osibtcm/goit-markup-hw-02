@@ -41,6 +41,18 @@ color: #434455;
 .header-link:hover {
      color: #404BBF;
     }
+.address-link {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    font-style: normal;
+    }
+    
+.address-link:focus,
+.address-link:hover {
+            color: #404BBF;
+    }
 .order {
      background-color: #2e2f42;
     }
